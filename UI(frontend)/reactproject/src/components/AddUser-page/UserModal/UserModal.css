@@ -1,0 +1,26 @@
+.modal-dialog{
+  transform: translate(0,102px) !important;
+}
+.modal-header {
+    font-family: sans-serif !important;
+    border-bottom: none !important ;
+    margin: 0!important;
+    padding: 0 10px 0 0 !important;
+}
+.modal-content{
+    border-radius: 0px !important;
+    width: 80% !important;
+}
+.modal-title{
+    margin: 24px 0 0 40px;
+}
+.close{
+    font-size: 40px !important;
+}
+.close:focus{
+   outline: none;
+}
+.modal-body{
+    margin: 0 0 50px 40px;
+    padding: 0 !important;
+}

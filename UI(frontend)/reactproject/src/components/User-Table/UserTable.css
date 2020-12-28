@@ -1,0 +1,18 @@
+.table-responsive{
+    overflow-x: hidden !important;
+}
+.userList{
+    background-color: #FDFEFE !important;
+    margin:35px 35px 35px 35px; 
+    border-bottom: 1px solid gray;
+}
+/* .table td,.table th{
+    padding: 10px 10px 10px 50px !important;
+} */
+tbody{
+    overflow-y: auto;
+}
+.table th{
+    position: sticky !important;
+    top: 0 !important;
+}

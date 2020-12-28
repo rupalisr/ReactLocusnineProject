@@ -1,0 +1,25 @@
+
+.navbottom{
+    border-bottom: 1px solid#F0F0F0!important;
+    padding-bottom: 20px !important;
+}
+#userName {
+    background-image: url(../../assests/ico_search.svg);
+    background-position: right 10px top 10px;
+    background-repeat: no-repeat;
+    font-size: 16px;
+    padding: 5px 80px 5px 20px;
+    border: 1px solid #ddd;
+  }
+ .userHeading{
+     padding-left: 18px;
+ }
+.add_user{
+    background: orange !important;
+    border-radius: 0px !important;
+    margin: 0 10px 0 20px;
+    border-color: transparent !important;
+}
+
+
+
